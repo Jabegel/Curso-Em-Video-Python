@@ -1,1 +1,0 @@
-# 025 Crie um programa que leia o nome de uma pesoa e diga se ela tem "SILVA" no nome.
